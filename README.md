@@ -28,7 +28,7 @@
 - ATTRACTIVE UI
 - RESPONSIVE DESIGN
 
-# DEMO   
+## DEMO   
  
 
 
@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/65156793/125104761-95eb3980-e092-11eb-
 
 
 
-# SCREENSHOTS
+## SCREENSHOTS
 
 
 
@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/65156793/125104761-95eb3980-e092-11eb-
 
 
 
-# USAGE 
+## USAGE 
 Fork or download this repo , move inside and run:
 
 ```
