@@ -27,10 +27,7 @@
 - RESPONSIVE DESIGN
 
 ## DEMO   
- 
 
-
-https://user-images.githubusercontent.com/65156793/125104761-95eb3980-e092-11eb-8d0f-13edaf60d5e7.mp4
 
 
 
@@ -38,11 +35,11 @@ https://user-images.githubusercontent.com/65156793/125104761-95eb3980-e092-11eb-
 
 
 
-![Screenshot (29)](https://user-images.githubusercontent.com/65156793/125104133-e746f900-e091-11eb-990c-43a87fa7ae76.png)
 
 
 
-![Screenshot (28)](https://user-images.githubusercontent.com/65156793/125104141-e910bc80-e091-11eb-9c9e-3be92d14bd0b.png)
+
+
 
 
 
