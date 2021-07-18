@@ -26,15 +26,16 @@
 - ATTRACTIVE UI
 - RESPONSIVE DESIGN
 
-## DEMO   
-
-
 
 
 ## SCREENSHOTS
 
 
+![Screenshot (332)](https://user-images.githubusercontent.com/60751023/126071923-af578845-9cb4-4e4e-811b-66563811271e.png)
 
+![Screenshot (333)](https://user-images.githubusercontent.com/60751023/126071929-f671ade4-9cfa-4688-9745-35a0c5590efa.png)
+
+![Screenshot (334)](https://user-images.githubusercontent.com/60751023/126071932-b493d5cd-ea52-46f6-8552-2941a3e66a8e.png)
 
 
 
