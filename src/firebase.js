@@ -1,12 +1,12 @@
 import firebase from 'firebase'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBcwxS7XvXm98TF_zHiIWHm7TKi7p8gxx8",
-    authDomain: "discord-clone-5254c.firebaseapp.com",
+    apiKey: "Enter your own API key",
+    authDomain: "#############,
     projectId: "discord-clone-5254c",
-    storageBucket: "discord-clone-5254c.appspot.com",
+    storageBucket: "###############",
     messagingSenderId: "844158929233",
-    appId: "1:844158929233:web:d20a9e6ad150f20fbd2b70"
+    appId: "Enter your own app id"
   };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig)
